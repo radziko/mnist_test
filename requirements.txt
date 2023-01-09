@@ -1,0 +1,8 @@
+click
+matplotlib
+numpy
+python-dotenv
+scikit_learn
+setuptools
+torch
+torchvision
